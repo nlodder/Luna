@@ -54,4 +54,7 @@ jsonpointer
 jsonschema
 jupyter-events
 jupyter-lsp
-
+keras
+numpy
+matplotlib
+pandas
