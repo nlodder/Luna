@@ -55,6 +55,8 @@ jsonschema
 jupyter-events
 jupyter-lsp
 keras
-numpy
 matplotlib
+numpy
+ollama
 pandas
+tensorflow
